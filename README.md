@@ -1,4 +1,4 @@
-## Hey there, I'm a Front End Developer from Ukraine 👋 
+## 👋 Hey there, I'm a Front End Developer from Ukraine 👋 
 
 #### Strong team player with a high level of leadership who thrives in a fast-paced environment. Frontend developer with 6+ years of experience. Developed a large number of WordPress websites. I have successfully implemented several React.js projects, which I also maintained. Developing and supporting Chrome extensions. I easily connect with people and quickly learn new skills. Additionally, I run my own expert blog on Instagram focused on IT and frontend development. mentor people in starting their IT careers and assist them on their IT journey. 
 
