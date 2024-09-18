@@ -37,3 +37,6 @@
 #### If you're on the hunt for a WEB Developer to bring your ideas to life, why not team up with me? Together, we can create something truly amazing!
 
 #### P.S: Don't hesitate, message me! - [Gmail](mailto:popovdenys.web@gmail.com), [LinkedIn](https://www.linkedin.com/in/denys-popov-web/) or [Telegram](https://t.me/denispopov_web)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankyJo&show_icons=true&theme=radical)
