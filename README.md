@@ -38,6 +38,6 @@
 
 #### P.S: Don't hesitate, message me! - [Gmail](mailto:popovdenys.web@gmail.com), [LinkedIn](https://www.linkedin.com/in/denys-popov-web/) or [Telegram](https://t.me/denispopov_web)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankyJo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankyJo&show_icons=true&theme=transparent)
