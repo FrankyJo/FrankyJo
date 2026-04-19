@@ -12,9 +12,9 @@
 
 ## Expertise in Tech Stack:
 
-💻 React
+💻 Vue, TypeScript
 
-🔧 Redux (Toolkit)
+🔧 Pinia
 
 🖥️ Wordpress
 
@@ -37,5 +37,3 @@
 #### If you're on the hunt for a WEB Developer to bring your ideas to life, why not team up with me? Together, we can create something truly amazing!
 
 #### P.S: Don't hesitate, message me! - [Gmail](mailto:popovdenys.web@gmail.com), [LinkedIn](https://www.linkedin.com/in/denys-popov-web/) or [Telegram](https://t.me/denispopov_web)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankyJo)](https://github.com/anuraghazra/github-readme-stats)
