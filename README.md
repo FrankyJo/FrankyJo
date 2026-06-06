@@ -6,8 +6,6 @@
 
 #### [gp.studio](https://www.gp.studio/) — Website for one of the best porcelain stoneware salons in Kyiv.
 
-#### [3D room](https://www.gp.studio/3d/) — 3d room scene with the ability to change the texture. Implemented using three.js.
-
 #### [RSMoto](https://www.rsmoto.com.ua/) — website for one of the largest motorcycle schools in Ukraine.
 
 ## Expertise in Tech Stack:
